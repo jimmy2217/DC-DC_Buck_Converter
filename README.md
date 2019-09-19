@@ -14,5 +14,10 @@ Enjoy...
 # PCB
 ![Board](https://user-images.githubusercontent.com/55294493/64897648-01038a80-d639-11e9-9574-50bb8f996f63.png)  
 
+![Physical board](https://user-images.githubusercontent.com/55325587/65214696-ac5c7700-da5f-11e9-86d6-4bfc0a5f0485.JPG)  
+
 # Efficiency  
 ![Efficiency](https://user-images.githubusercontent.com/55325587/65214286-428f9d80-da5e-11e9-82d7-abdcd29cfbf0.JPG)  
+
+# Thermal image @ max load  
+![Thermal image at max load](https://user-images.githubusercontent.com/55325587/65214702-b41c1b80-da5f-11e9-9c08-422712559737.jpg)
