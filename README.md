@@ -1,6 +1,6 @@
 # DC-DC_Buck_Converter  
-DC-DC_Buck_Converter DC to DC buck converter capable of 3-30Vdc 3A output from an 8-30Vdc input with 90-95% efficiency.    
-You can use the Gerber files to have your PCB manufactured, and use the BOM to purchase all required parts to build your circuit.      
+Adjustable DC to DC buck converter capable of 1-28Vdc 5A output from an 8-30Vdc input with 86-92% efficiency.    
+You can use the Gerber files to have your PCB manufactured, and use the BOM to purchase all required componenets to build your circuit.  
 Enjoy...  
 
 # Circuit  
