@@ -1,5 +1,5 @@
 # DC-DC_Buck_Converter  
-Adjustable DC to DC buck converter capable of 1-28Vdc 5A output from an 8-30Vdc input with 86-92% efficiency.    
+Adjustable DC to DC buck converter using Texas Instrument LM2678 Switcher that is capable of 1-28Vdc 5A output from an 8-30Vdc input with 86-92% efficiency.    
 You can use the Gerber files to have your PCB manufactured, and use the BOM to purchase all required componenets to build your circuit.  
 Enjoy...  
 
